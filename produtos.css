@@ -39,7 +39,8 @@ nav{
     vertical-align: top;
     margin: 0 1.5%;
     padding: 30px 20px ;
-    border: solid;
+    border: 2px solid black;
+    border-radius: 3%;
     box-sizing: border-box;
 }
 .produtos h2{
