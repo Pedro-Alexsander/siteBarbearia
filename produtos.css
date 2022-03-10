@@ -22,6 +22,10 @@ nav{
     top: 110px;
     right: 0;
 }
+nav a:hover{
+    color: #C78C19;
+    text-decoration: underline;
+}
 .box{
     position: relative;
     width: 940px;
@@ -43,10 +47,20 @@ nav{
     border-radius: 3%;
     box-sizing: border-box;
 }
+.produtos li:hover h2{
+    font-size: 34px;
+}
+.produtos li:hover{
+    border-color: #C78C19;
+}
+.produtos li:active{
+    border-color: #088C19;
+}
 .produtos h2{
     font-size: 30px;
     font-weight: bold;
 }
+
 .valor{
     font-size: 26px;
     font-weight: bold;
@@ -54,4 +68,15 @@ nav{
 }
 .descricao{
     font-size: 18px;
+}
+
+footer{
+    text-align: center;
+    background-image: url(./imagens/bg.jpg);
+    padding: 40px 0;
+}
+.copy{
+    color: white;
+    font-size: 13px;
+    margin-top: 20px;
 }
