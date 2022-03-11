@@ -77,3 +77,14 @@ ul {
 .imagembeneficios {
 	width: 50%;
 }
+
+footer{
+	background-image: url(./imagens/bg.jpg);
+	text-align: center;
+	color: white;
+	font-size: 13px;
+	padding: 20px 0;
+}
+footer p{
+	margin-top: 25px;
+}
