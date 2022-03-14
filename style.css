@@ -86,13 +86,14 @@ footer{
 
 
 form{
-    margin: 40px auto;
+    margin: 40px 50px;
 }
 .input-padrao{
     display: block;
     margin-bottom: 20px;
     padding: 10px 25px;
     width: 50%;
+   
 }
 form label, form legend{
     display: block;
@@ -122,7 +123,7 @@ form label, form legend{
 }
 
 table{
-    margin: 20px 0 40px;
+    margin: 20px 50px;
 }
 thead{
     background-color: #555555;
@@ -137,7 +138,7 @@ td, th{
 
 /* css da página inicial */
 .banner img{
-    width: 100%;   
+    width: 100%; 
 }
 
 .titulo-principal{
