@@ -84,12 +84,9 @@ footer{
     margin-top: 20px;
 }
 
-main{
- 
-}
 
 form{
-    margin: 40px 0;
+    margin: 40px auto;
 }
 .input-padrao{
     display: block;
@@ -200,9 +197,7 @@ td, th{
     width: 60%;
     box-shadow: 10px 10px 10px 0 black;
 }
-.imagem-beneficios:hover{
 
-}
 .lista-beneficios{
     width: 40%;
     display: inline-block;
@@ -231,5 +226,10 @@ td, th{
     }
     .lista-beneficios, .imagem-beneficios{
         width: 100%;
+    }
+    .produtos li{
+        display:block;
+        margin-bottom: 20px;
+        margin-left: 5%;
     }
 }
