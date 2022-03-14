@@ -232,4 +232,10 @@ td, th{
         margin-bottom: 20px;
         margin-left: 5%;
     }
+    .main-form{
+        margin-left: 8%;
+    }
+    .input-padrao{
+        border: 2px solid black;
+    }
 }
