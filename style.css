@@ -178,11 +178,13 @@ td, th{
 }
 .beneficios{
     padding: 3em 0;
+    
     background-color: #888888;
 }
 .conteudo-beneficios{
     width: 640px;
     margin: 0 auto;
+    margin-bottom: 70px;
 }
 .itens{
     line-height: 1.5;
@@ -195,7 +197,7 @@ td, th{
     font-weight: bold;
 }
 .imagem-beneficios{
-    width: 60%;
+    width: 55%;
     box-shadow: 10px 10px 10px 0 black;
 }
 
